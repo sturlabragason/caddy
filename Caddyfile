@@ -1,3 +1,7 @@
 caloriecounterai.com {
     reverse_proxy web:8080
 }
+
+bubbla.art {
+    reverse_proxy bubbla:3001
+}
