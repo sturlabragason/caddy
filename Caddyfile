@@ -3,5 +3,5 @@ caloriecounterai.com {
 }
 
 analytics.bubbla.art {
-    reverse_proxy ackee:3001
+    reverse_proxy ackee:3000
 }
